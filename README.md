@@ -31,8 +31,6 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uuuj0821&langs_count=10&layout=compact&theme=dark)](https://github.com/uuuj0821/uuuj0821)﻿
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uuuj0821)](https://solved.ac/uuuj0821)
 
 [![jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=uuuj0821&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/uuuj0821/github-readme-stats)
